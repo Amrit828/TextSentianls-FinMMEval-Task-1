@@ -6,8 +6,6 @@ Code for our FinMMEval 2026 Task 1 submission: a multilingual routed retrieval-a
 
 - Five evaluated Task 1 pipeline variants
 - Task 1 submission runner scripts
-- Final `v3` test submission JSON files
-- `v3` development submission JSON files
 
 ## Core variants
 
